@@ -11,7 +11,7 @@ This AE script makes animating number count easy. It is basically [this](https:/
 
 ## Issues
 
-- Empty window appears after using the script
+- Empty window appears after using the script (you can press Esc to close it)
 - Only works on first layer (be sure to have your Text Layer on the top)
 
 ## Contribution
